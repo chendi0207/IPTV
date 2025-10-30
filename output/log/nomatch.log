@@ -1,226 +1,138 @@
-CCTV-卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
-CCTV-电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
-中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-CETV-1 综合教育,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
-CETV-2 空中课堂,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
-CETV-3 教育服务,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
-CETV-4 职业教育,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
-CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CCTV4K,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
-求索科学,http://ygbh.site/php/bfgd.php?id=286
-求索动物,http://ygbh.site/php/bfgd.php?id=287
-求索生活,http://ygbh.site/php/bfgd.php?id=288
-家庭影院,http://ygbh.site/php/bfgd.php?id=289
-农林卫视,http://ygbh.site/php/bfgd.php?id=122
-兵团卫视,http://ygbh.site/php/bfgd.php?id=124
-山东教育卫视,http://ygbh.site/php/bfgd.php?id=112
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-海峡卫视,http://8.138.7.223/tv/hxws.m3u8
-珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
-央视新闻,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
-兵团卫视,https://cc06.tv12.xyz/30.m3u8
-农林卫视,https://cc06.tv12.xyz/105.m3u8
-山东教育卫视,https://cc06.tv12.xyz/100.m3u8
-CGTN,http://112.27.235.94:8000/hls/17/index.m3u8
-上海卫视,http://112.27.235.94:8000/hls/28/index.m3u8
-重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
-CCTV-4欧洲,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
-CCTV-4美洲,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4o
-CCTV发现之旅,http://mg.hmysapp.cn:177/ckmg/zb.php?id=fxzl
-CCTV老故事,http://mg.hmysapp.cn:177/ckmg/zb.php?id=lgs
-CCTV中学生,http://mg.hmysapp.cn:177/ckmg/zb.php?id=zxs
-CGTN,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
-CGTN纪录,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnjl
-CCTV西班牙语,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtne
-CCTV法语,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnf
-CCTV阿拉伯语,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtna
-CCTV俄语,http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnr
-海峡卫视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=hxws
-四海钓鱼,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shdy
-上视纪实人文,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shjsrw
-乐游,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ly
-临洮电视台,http://mg.hmysapp.cn:177/ckmg/zb.php?id=lttv
-江苏综艺,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jszy
-江苏公共新闻,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsggxw
-江苏国际,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsgj
-江苏体育休闲,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jstyxx
-泰州新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=tzxwzh
-宿迁新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sqxwzh
-徐州新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xzxwzh
-广东影视,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gdys
-高清大片,http://mg.hmysapp.cn:177/ckmg/zb.php?id=gqdp
-经典深圳旁边电影,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jdxgdy
-军事迷必看大片,http://mg.hmysapp.cn:177/ckmg/zb.php?id=jsdp
-历届春晚回顾,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ljcwhg
-Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
-咪咕24小时体育台,http://mg.hmysapp.cn:177/ckmg/zb.php?id=mg24hty
-Beijing Traffic Radio TV [Geo-blocked],http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
-玫瑰轮播台,http://mg.hmysapp.cn:177/ckmg/zb.php?id=mglbt
-Beijing Youth Radio [Geo-blocked],http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
-欧洲足球风云,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ozzqfy
-Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
-CGTN,https://0472.org/hls/cgtn.m3u8
-全民乒乓,http://mg.hmysapp.cn:177/ckmg/zb.php?id=qmpp
-Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-热剧联播,http://mg.hmysapp.cn:177/ckmg/zb.php?id=rjlb
-BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-赛事最经典,http://mg.hmysapp.cn:177/ckmg/zb.php?id=sszjd
-BRTV Kaku Childrens Channel,http://223.72.123.28:85/tsfile/live/1026_1.m3u8?authid=0&key=txiptv&playlive=1
-CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-体坛名栏汇,http://mg.hmysapp.cn:177/ckmg/zb.php?id=ttmlh
-BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-新片放映厅,http://mg.hmysapp.cn:177/ckmg/zb.php?id=xpfyt
-BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
-CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CCTV发现之旅,http://t.061899.xyz/tl/dq.php?id=fxzl
-BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CCTV老故事,http://t.061899.xyz/tl/dq.php?id=lgs
-BRTV 北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
-CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CCTV中学生,http://t.061899.xyz/tl/dq.php?id=zxs
-CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN,http://t.061899.xyz/tl/dq.php?id=cgtn
-CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN纪录,http://t.061899.xyz/tl/dq.php?id=cgtnjl
-Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
-熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-CCTV西班牙语,http://t.061899.xyz/tl/dq.php?id=cgtne
-Channel Max,http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?authid=0&key=txiptv&playlive=1
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-2025-03-06 16:04:54,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
-CCTV法语,http://t.061899.xyz/tl/dq.php?id=cgtnf
-Channel Tea,http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?authid=0&key=txiptv&playlive=1
-支持作者,https://vd3.bdstatic.com/mda-rja3mfxaxgr3uugw/1080p/cae_h264/1760187146239916730/mda-rja3mfxaxgr3uugw.mp4
-CCTV阿拉伯语,http://t.061899.xyz/tl/dq.php?id=cgtna
-CHC Action,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?authid=0&key=txiptv&playlive=1
-兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
-CCTV俄语,http://t.061899.xyz/tl/dq.php?id=cgtnr
-CHC Home Theater,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?authid=0&key=txiptv&playlive=1
 ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
-海峡卫视,http://t.061899.xyz/tl/dq.php?id=hxws
-福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
-City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
-Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
-兵团卫视,http://124.128.73.58:9901/tsfile/live/0115_1.m3u8
-四海钓鱼,http://t.061899.xyz/tl/dq.php?id=shdy
-福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-Documentary Humanities Channel,http://49.113.179.174:4022/udp/238.125.3.135:5140
 Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
-兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
-上视纪实人文,http://t.061899.xyz/tl/dq.php?id=shjsrw
-无线新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
-DOX Surround,http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?authid=0&key=txiptv&playlive=1
+Angel TV Chinese (720p),https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8
+Beijing Traffic Radio TV [Geo-blocked],http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
+Animation Show Channel,http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?authid=0&key=txiptv&playlive=1
 Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
-兵团卫视,http://124.128.73.58:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-乐游,http://t.061899.xyz/tl/dq.php?id=ly
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-DOX Yaqu,http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?authid=0&key=txiptv&playlive=1
+Beijing Youth Radio [Geo-blocked],http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
 Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
-江苏综艺,http://t.061899.xyz/tl/dq.php?id=jszy
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-DOX Yijia,http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?authid=0&key=txiptv&playlive=1
+Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
 BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
-海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-江苏公共新闻,http://t.061899.xyz/tl/dq.php?id=jsggxw
-无线新闻,http://6v.nx.tc/smrt.php?playurl=http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
-海峡卫视,http://r.jdshipin.com/WtYt3
-江苏国际,http://t.061899.xyz/tl/dq.php?id=jsgj
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
-Ecology & Environment TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
+BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
+CGTN,https://0472.org/hls/cgtn.m3u8
 BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
-农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
-江苏体育休闲,http://t.061899.xyz/tl/dq.php?id=jstyxx
-无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
-Fengtai Culture & Life TV,http://60.175.115.119:1935/live/wenhua/playlist.m3u8
+BRTV Kaku Childrens Channel,http://223.72.123.28:85/tsfile/live/1026_1.m3u8?authid=0&key=txiptv&playlive=1
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CCTV-卫生健康,http://nas.hssvm.com:8888/udp/225.1.1.210:5002
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-农林卫视,http://112.46.85.60:8009/hls/27/index.m3u8
-CCTV-4K,http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
-无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-Fengtai News TV,http://60.175.115.119:1935/live/zonghe/playlist.m3u8
+BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CCTV-电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
-苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
-无线新闻,https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
-Foshan News TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
+BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
+CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
-农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
-Fusung News TV,http://stream8.jlntv.cn/fs/sd/live.m3u8
+BRTV 北京卫视 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv1.m3u8
+2025-03-06 16:04:54,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 Channel Max,http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?authid=0&key=txiptv&playlive=1
-上海卫视,http://genglei.8866.org:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV-01,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
-黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073
-Game Channel,http://49.113.179.174:4022/udp/238.125.1.36:5140
+BRTV 北京卫视,http://118.81.195.79:9003/hls/20/index.m3u8
+CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 Channel Tea,http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?authid=0&key=txiptv&playlive=1
-上海卫视,http://genglei.8866.org:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV-04,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
-黑莓电影,http://140.245.86.67:50001/1000000004000019624/ystenlive/index.m3u8
-Golden Eagle Cartoon,http://1.24.190.98:10080/hls/51/index.m3u8
+福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
+CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 CHC Action,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?authid=0&key=txiptv&playlive=1
-内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
-黑龙江视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
-精品体育,http://140.245.86.67:50001/1000000004000014634/ystenlive/index.m3u8
-◆◆◆　https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-2025-10-29 06:25:18,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+CETV-1 综合教育,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
 CHC Home Theater,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?authid=0&key=txiptv&playlive=1
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
-黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
-浙江休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
-Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+无线新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
+CETV-2 空中课堂,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
 City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-乐游频道,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
-黑莓动画,http://api2.52tb.xyz/info?id=173&token=20230218qkyjia
-青田电视,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
+Channel Max,http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?authid=0&key=txiptv&playlive=1
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+CETV-3 教育服务,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 Documentary Humanities Channel,http://49.113.179.174:4022/udp/238.125.3.135:5140
-黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
-睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
-黑莓动画,http://api3.52tb.xyz/info?id=173&token=20221127jxwhhemby
-普陀电视,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
-Hunan Entertainment Channel,http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8
+Channel Tea,http://180.213.174.225:9901/tsfile/live/1041_1.m3u8?authid=0&key=txiptv&playlive=1
+中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+CETV-4 职业教育,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 DOX Surround,http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?authid=0&key=txiptv&playlive=1
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-睛彩广场,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
-黑莓动画,https://allinone.1436789.xyz:6006/itv/1000000004000021734.m3u8?cdn=ystenlive
-普陀电视,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
+CHC Action,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?authid=0&key=txiptv&playlive=1
+熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+无线新闻,http://6v.nx.tc/smrt.php?playurl=http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 DOX Yaqu,http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?authid=0&key=txiptv&playlive=1
-AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-黑莓动画,http://lt.hxtre.com:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-普陀电视,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
+CHC Home Theater,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?authid=0&key=txiptv&playlive=1
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 DOX Yijia,http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?authid=0&key=txiptv&playlive=1
-CHC电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
-求索纪录,http://111.22.153.159:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
-黑莓动画,https://iptv.sufa518.cn:8090/itv/1000000004000021734.m3u8?cdn=ystenlive
-徐州新闻综合,http://z.b.bkpcp.top/m.php?id=xzxwzh
-Jiangxi Children's Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
+支持作者,https://vd3.bdstatic.com/mda-rja3mfxaxgr3uugw/1080p/cae_h264/1760187146239916730/mda-rja3mfxaxgr3uugw.mp4
+无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+CGTN俄语,http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-求索科学,http://111.22.153.159:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
+Documentary Humanities Channel,http://49.113.179.174:4022/udp/238.125.3.135:5140
+兵团卫视,http://183.11.239.36:808/hls/7/index.m3u8
+无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
+CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+Ecology & Environment TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
+DOX Surround,http://180.213.174.225:9901/tsfile/live/1032_1.m3u8?authid=0&key=txiptv&playlive=1
+兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8
+无线新闻,https://edge2a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+Game Channel,http://49.113.179.174:4022/udp/238.125.1.36:5140
+DOX Yaqu,http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?authid=0&key=txiptv&playlive=1
+兵团卫视,http://124.128.73.58:9901/tsfile/live/0115_1.m3u8
+无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
+CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+Golden Eagle Cartoon,http://1.24.190.98:10080/hls/51/index.m3u8
+DOX Yijia,http://180.213.174.225:9901/tsfile/live/1031_1.m3u8?authid=0&key=txiptv&playlive=1
+兵团卫视,http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
+黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073
+CCTV4K,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
+Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+兵团卫视,http://124.128.73.58:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+黑莓电影,http://140.245.86.67:50001/1000000004000019624/ystenlive/index.m3u8
+求索科学,http://ygbh.site/php/bfgd.php?id=286
+Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+Ecology & Environment TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+精品体育,http://140.245.86.67:50001/1000000004000014634/ystenlive/index.m3u8
+求索动物,http://ygbh.site/php/bfgd.php?id=287
+Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
+Fengtai Culture & Life TV,http://60.175.115.119:1935/live/wenhua/playlist.m3u8
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
+求索生活,http://ygbh.site/php/bfgd.php?id=288
+Home Plus,https://homeplushls.wns.live/hls/stream.m3u8
+Fengtai News TV,http://60.175.115.119:1935/live/zonghe/playlist.m3u8
+海峡卫视,http://r.jdshipin.com/WtYt3
+黑莓动画,http://api2.52tb.xyz/info?id=173&token=20230218qkyjia
+家庭影院,http://ygbh.site/php/bfgd.php?id=289
+Hunan Entertainment Channel,http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8
+Foshan News TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
+农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
+黑莓动画,http://api3.52tb.xyz/info?id=173&token=20221127jxwhhemby
+农林卫视,http://ygbh.site/php/bfgd.php?id=122
+Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
+Fusung News TV,http://stream8.jlntv.cn/fs/sd/live.m3u8
+农林卫视,http://112.46.85.60:8009/hls/27/index.m3u8
+黑莓动画,https://allinone.1436789.xyz:6006/itv/1000000004000021734.m3u8?cdn=ystenlive
+兵团卫视,http://ygbh.site/php/bfgd.php?id=124
+JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
+Game Channel,http://49.113.179.174:4022/udp/238.125.1.36:5140
+农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
+黑莓动画,http://lt.hxtre.com:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+山东教育卫视,http://ygbh.site/php/bfgd.php?id=112
+Jiangxi Children's Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+Golden Eagle Cartoon,http://1.24.190.98:10080/hls/51/index.m3u8
+农林卫视,http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+黑莓动画,https://iptv.sufa518.cn:8090/itv/1000000004000021734.m3u8?cdn=ystenlive
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+Jiangxi City Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
+Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+上海卫视,http://genglei.8866.org:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
